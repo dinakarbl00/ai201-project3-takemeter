@@ -1,0 +1,31 @@
+text,true_label,predicted_label,confidence,correct
+"Tony Parker averaged 15.7 points per game in the 2013 Finals on 41, 28, and 72 shooting splits.",analysis,analysis,0.8693,True
+"The reason people are being so much more harsh to SAS than OKC is because SAS lost more recently. People already had these conversations about OKC, but moved on because the Finals started.",analysis,hot_take,0.5654,False
+I remember this year they were experimenting with digital models of plays and defensive schemes and how to optimize coverage and switches. Apparently LeBron was faster than the optimized simulations.,analysis,analysis,0.4597,True
+I was so shocked when I saw they were up in overtime.,reaction,reaction,0.8007,True
+He owes the team a discount for keeping his son around.,low_effort_noise,reaction,0.3843,False
+Amazing game.,reaction,low_effort_noise,0.6418,False
+Cleveland actually won. By golly.,reaction,low_effort_noise,0.5905,False
+"Clips are dope but Parker averaged 24 points and shot 52 percent against Bron, with Bron checking him a lot of the game. There are more highlights of Parker scoring on Bron than Bron stopping Tony.",analysis,analysis,0.9297,True
+Don’t know if this will ever be repeated even by Brunson himself. Mad props to him for putting out a season for the ages with all the lights on him.,hot_take,low_effort_noise,0.3965,False
+"Sports discourse tends to swing like a pendulum. Once a player gets overrated, people start overcorrecting in the opposite direction.",analysis,hot_take,0.772,False
+"Same. I checked the post-game thread and could not find it, but at least I caught the end of overtime.",reaction,reaction,0.7755,True
+The Fever reliably find a way to lose after a great beginning. They make it infuriating to remain a fan. Congrats to the Dream for wanting it more.,hot_take,hot_take,0.6727,True
+"Only 28 is not much of an argument for a hyper-athletic guard who is a below average shooter, and he will be 29 in December. I would want Harper to get the maximum number of reps possible at point guard.",analysis,analysis,0.9138,True
+"The Thunder had bad breaks with injuries, that is why they lost. The Spurs just blew a golden opportunity.",hot_take,analysis,0.9308,False
+"Ten seconds left and up by four. It was all set up for Cleveland to lose in the most Cleveland way possible, but they actually held on.",reaction,analysis,0.8352,False
+Spurs lost in five. Thunder lost in seven with an All Star player injured and another key player injured.,analysis,analysis,0.9225,True
+Same.,low_effort_noise,low_effort_noise,0.6498,True
+Go Dream. I finally figured out how to add you to my flair.,reaction,reaction,0.647,True
+Perfect player on both ends of the floor.,hot_take,reaction,0.4174,False
+Kevin Love in an Austin 3:16 shirt on SportsCenter is incredible.,low_effort_noise,low_effort_noise,0.7015,True
+We were down six with 35 seconds left and we did not have possession.,reaction,reaction,0.566,True
+"Curry and Thompson were 6 for 24 on threes. Full lowlights, what do?",low_effort_noise,reaction,0.5103,False
+"Same, but luckily I had a buddy text me so I turned it back on. Unbelievable.",reaction,reaction,0.6118,True
+Was she as hot as LeBron James?,low_effort_noise,reaction,0.5514,False
+"I remember a play in 2018 when he literally ran around the entire perimeter individually guarding Steph, Klay, and KD and then boxed out Draymond for the rebound.",analysis,analysis,0.8865,True
+Should've been the DPOY over Gasol.,hot_take,low_effort_noise,0.4429,False
+Dream playing like this is scary for other teams.,hot_take,low_effort_noise,0.3484,False
+"I knew they were cooked when they did not keep Natasha Howard. They have stars, but she was the missing piece last year and took them to the next level.",hot_take,hot_take,0.4628,True
+"When a pendulum swings hard one direction, it is bound to swing equally hard the next. Two weeks ago the discourse was almost unanimous that the Spurs were going to wipe the floor with the Knicks, so the reaction after losing in five is intense.",analysis,analysis,0.941,True
+"As a Cavs fan since 17 days ago, you have no idea how much this means to me.",low_effort_noise,reaction,0.4244,False

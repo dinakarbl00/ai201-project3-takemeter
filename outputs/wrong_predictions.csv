@@ -1,0 +1,15 @@
+text,true_label,predicted_label,confidence,correct
+"The reason people are being so much more harsh to SAS than OKC is because SAS lost more recently. People already had these conversations about OKC, but moved on because the Finals started.",analysis,hot_take,0.5654,False
+He owes the team a discount for keeping his son around.,low_effort_noise,reaction,0.3843,False
+Amazing game.,reaction,low_effort_noise,0.6418,False
+Cleveland actually won. By golly.,reaction,low_effort_noise,0.5905,False
+Don’t know if this will ever be repeated even by Brunson himself. Mad props to him for putting out a season for the ages with all the lights on him.,hot_take,low_effort_noise,0.3965,False
+"Sports discourse tends to swing like a pendulum. Once a player gets overrated, people start overcorrecting in the opposite direction.",analysis,hot_take,0.772,False
+"The Thunder had bad breaks with injuries, that is why they lost. The Spurs just blew a golden opportunity.",hot_take,analysis,0.9308,False
+"Ten seconds left and up by four. It was all set up for Cleveland to lose in the most Cleveland way possible, but they actually held on.",reaction,analysis,0.8352,False
+Perfect player on both ends of the floor.,hot_take,reaction,0.4174,False
+"Curry and Thompson were 6 for 24 on threes. Full lowlights, what do?",low_effort_noise,reaction,0.5103,False
+Was she as hot as LeBron James?,low_effort_noise,reaction,0.5514,False
+Should've been the DPOY over Gasol.,hot_take,low_effort_noise,0.4429,False
+Dream playing like this is scary for other teams.,hot_take,low_effort_noise,0.3484,False
+"As a Cavs fan since 17 days ago, you have no idea how much this means to me.",low_effort_noise,reaction,0.4244,False
